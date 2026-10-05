@@ -1,39 +1,27 @@
-<div align="center">
+### Priyanshu Kumar
 
-# Hi there, I'm Priyanshu 👋
-### ☁️ Aspiring Cloud Engineer
+Cloud and DevOps engineer, studying B.Tech CSE (Cloud Computing) at Lovely Professional University. CGPA 8.5.
+I provision infrastructure, automate deployments and keep production running. Open to cloud, DevOps and SRE internships.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Lifelong+Learner)](https://git.io/typing-svg)
+**Portfolio:** [priyanshu.monster](https://priyanshu.monster) &nbsp;·&nbsp; **LinkedIn:** [in/priyanshu171](https://www.linkedin.com/in/priyanshu171/) &nbsp;·&nbsp; **Email:** priyanshusinha1711@gmail.com
 
-</div>
+#### Selected work
 
----
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [crm_sys](https://github.com/pxkuma/crm_sys) | Lead CRM in production for Handwriters Publication, on a hardened Azure VM behind Nginx with zero-downtime rollouts | Azure, Nginx, Docker, React, PHP, MySQL |
+| [manimaxgw](https://github.com/pxkuma/manimaxgw) | Prompt to narrated, animated lesson video. Self-hosted LLM and renderer in one GPU Docker Compose stack | Python, Ollama, Manim, Docker, FFmpeg |
+| [jenkin_test](https://github.com/pxkuma/jenkin_test) | Python service behind a zero-touch Jenkins pipeline: Docker agents, SonarQube gate, deploy to AWS EC2 | Jenkins, SonarQube, Docker, AWS EC2 |
+| [peer_review](https://github.com/pxkuma/peer_review) | Editorial review for .docx research papers with an NVIDIA NIM LLM and native Word comments | Python, NVIDIA NIM, Pydantic |
+| [file_converter](https://github.com/pxkuma/file_converter) | Right-click file conversion for Linux, fully local | Python, Bash, Pandoc |
 
-### 📖 About Me
+#### Toolbox
 
-- 🎓 **Education:** Pursuing B.Tech in CSE at Lovely Professional University.
-- 💻 **OS:** Primary driver is **Ubuntu** 🐧.
-- 🛠️ **Current Project:** Building a custom CRM for Handwriters Publication.
-- ⚡ **Fun Fact:** I'm currently experimenting with text-to-video generation using Manim.
+**Cloud:** Microsoft Azure, AWS &nbsp;·&nbsp; **Containers:** Docker (learning Kubernetes) &nbsp;·&nbsp; **CI/CD:** Jenkins, SonarQube, GitHub
+**Servers:** Linux, Nginx, MySQL &nbsp;·&nbsp; **Languages:** Python, Bash, C++, Java &nbsp;·&nbsp; **Learning:** Terraform
 
----
+#### Certifications
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,cpp,c,html,css" alt="Languages" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,azure,mysql,git,github,vscode" alt="Tools" />
-</p>
-
----
-
-
-### 🤝 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/priyanshu-kumar-415604309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:priyanshusinha1711@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+- Cloud Computing using Microsoft Azure, E&ICT Academy IIT Kanpur ([verify](https://verify.eicta.digitalcredentials.in/8d2c66e2-c897-4ece-8899-467f2c6b323f))
+- AWS Academy Cloud Foundations ([Credly](https://www.credly.com/badges/cb1cb57e-6edd-418d-afe1-6c8147e7247c))
+- Programming in Python, E&ICT Academy IIT Kanpur ([verify](https://verify.eicta.digitalcredentials.in/1334d9f7-5acf-44a3-9ca0-ace68c64de86))
